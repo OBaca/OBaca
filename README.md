@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=OBaca&style=flat-square&color=green" alt=""/>
 
+My name is Or and I'm a Computer Science student at The Open University of Israel.
 
 ![](https://leetcard.jacoblin.cool/orbacalu209?ext=heatmap&theme=dark&fony=Oswald)
 <!--
