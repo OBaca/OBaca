@@ -2,7 +2,7 @@
 
 My name is Or and I'm a Computer Science student at The Open University of Israel.
 
-![](https://leetcard.jacoblin.cool/OBACA?ext=heatmap&theme=dark&fony=Oswald)
+
 <!--
 **OBaca/OBaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
